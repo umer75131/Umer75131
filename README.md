@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Umer 👋
 
-<!--
-**umer75131/Umer75131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student and aspiring full-stack web developer
+who enjoys building practical and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work primarily with JavaScript, Node.js, Express.js, MongoDB and Python.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Software Engineering Student
+- 💻 MERN Stack Developer
+- 🌱 Currently improving my JavaScript and React skills
+- 🔧 Interested in Web Development and Backend Development
+- 📍 Karachi, Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- HTML
+- CSS
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- React.js
+- REST APIs
+- Backend Development
+- Full-Stack Development
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [Portfolio](https://umer naseem-portfolio.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/umer-naseem-b2/)
+- 📧 Email: Umer75131@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
