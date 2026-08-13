@@ -60,7 +60,7 @@ I work primarily with JavaScript, Node.js, Express.js, MongoDB and Python.
 ## 📫 Connect With Me
 
 - 🌐 Portfolio:https://umernaseem-portfolio.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/umer-naseem-b2b/
+- 💼 LinkedIn: www.linkedin.com/in/umer-naseem-b2b9b5357
 - 📧 Email: Umer75131@gmail.com
 
 ---
